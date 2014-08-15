@@ -38,3 +38,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# https://github.com/amatsuda/html5_validators
+gem 'html5_validators'
